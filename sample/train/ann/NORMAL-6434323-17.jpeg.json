@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13895119,
+            "tagId": 28017,
+            "name": "NORMAL",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-20T17:19:03.418Z",
+            "updatedAt": "2023-12-20T17:19:03.418Z"
+        }
+    ],
+    "size": {
+        "height": 496,
+        "width": 768
+    },
+    "objects": []
+}

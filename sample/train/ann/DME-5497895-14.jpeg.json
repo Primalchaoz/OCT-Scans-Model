@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 13976015,
+            "tagId": 28019,
+            "name": "DME",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-12-20T18:00:57.962Z",
+            "updatedAt": "2023-12-20T18:00:57.962Z"
+        }
+    ],
+    "size": {
+        "height": 496,
+        "width": 512
+    },
+    "objects": []
+}
